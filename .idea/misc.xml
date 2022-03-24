@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/peggychiu/AndroidStudioProjects/Flow/app/src/main/res/layout/activity_composing_multiple_flows.xml" value="0.24322916666666666" />
         <entry key="..\:/Users/peggychiu/AndroidStudioProjects/Flow/app/src/main/res/layout/activity_flattening_flows.xml" value="0.23125" />
+        <entry key="..\:/Users/peggychiu/AndroidStudioProjects/Flow/app/src/main/res/layout/activity_flow_context.xml" value="0.1234375" />
+        <entry key="..\:/Users/peggychiu/AndroidStudioProjects/Flow/app/src/main/res/layout/activity_other_operators.xml" value="0.2796875" />
       </map>
     </option>
   </component>
