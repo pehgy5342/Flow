@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Flow">
         <activity
+            android:name=".FlatteningFlowsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TerminalFlowActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IntermediateFlowActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
